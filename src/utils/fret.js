@@ -31,7 +31,7 @@ const drawFretboard = frets => {
   
     return (
         '<g>'+
-            '<line x1="5" y1="12" x2="55" y2="12" style=" stroke:rgb(0,0,0), strokeWidth:2" />'+
+            '<line x1="5" y1="12" x2="55" y2="12" style="stroke:rgb(0,0,0), strokeWidth:2" />'+
 
             ordinatBuild([22,32,42,52,62])+
             axisBuild([5,15,25,35,45,55]) +

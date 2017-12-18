@@ -33,5 +33,5 @@ import VueGuitarChords from 'vue-guitar-chords';
 Once installed, it can be used in a template as simply as:
 
 ```html
-<vue-guitar-chords></vue-guitar-chords>
+<vue-guitar-chords name="C" notes="010230"></vue-guitar-chords>
 ```
